@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Markata.github.io</id>
     <title>Markata</title>
-    <updated>2021-06-06T12:29:41.696Z</updated>
+    <updated>2021-06-06T12:35:11.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Markata.github.io"/>
     <link rel="self" href="https://Markata.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>每个人都应当深思一下自己的生活应当怎样度过</subtitle>
     <logo>https://Markata.github.io/images/avatar.png</logo>
     <icon>https://Markata.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Markata</rights>
@@ -16,7 +16,10 @@
         <link href="https://Markata.github.io/post/qi-te-de-yi-sheng/">
         </link>
         <updated>2021-06-06T11:36:14.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
+        <summary type="html"><![CDATA[<p>柳比歇夫一生的秘密——怎样才能生活得更好。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>柳比歇夫一生的秘密——怎样才能生活得更好。</p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
