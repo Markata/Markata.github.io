@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Markata.github.io</id>
     <title>Markata</title>
-    <updated>2021-06-06T11:42:42.454Z</updated>
+    <updated>2021-06-06T12:28:22.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Markata.github.io"/>
     <link rel="self" href="https://Markata.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://Markata.github.io/post/qi-te-de-yi-sheng/">
         </link>
         <updated>2021-06-06T11:36:14.000Z</updated>
-        <content type="html"><![CDATA[<p>柳比歇夫</p>
+        <content type="html"><![CDATA[<!-- more -->
 ]]></content>
     </entry>
 </feed>
