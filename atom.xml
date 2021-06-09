@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://localhost:4000</id>
     <title>Markata</title>
-    <updated>2021-06-06T14:21:08.009Z</updated>
+    <updated>2021-06-07T14:22:08.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://localhost:4000"/>
     <link rel="self" href="http://localhost:4000/atom.xml"/>
@@ -16,17 +16,10 @@
         <link href="http://localhost:4000/post/qi-te-de-yi-sheng/">
         </link>
         <updated>2021-06-06T11:36:14.000Z</updated>
-        <summary type="html"><![CDATA[<p>柳比歇夫一生的秘密——怎样才能生活得更好。</p>
+        <summary type="html"><![CDATA[<p>人这一生究竟应当如何度过，我暂时没有答案。但《奇特的一生》这本书确实讲述了一种我从未见过的奇特的一生！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>柳比歇夫一生的秘密——怎样才能生活得更好。</p>
+        <content type="html"><![CDATA[<p>人这一生究竟应当如何度过，我暂时没有答案。但《奇特的一生》这本书确实讲述了一种我从未见过的奇特的一生！</p>
 <!-- more -->
-<p><strong>当初瞎忙的那些事，如今看起来是那么渺小，而损失是那么惨重，主要是再也不能挽回弥补了。</strong><br>
-<strong>他已经作古，我再也见不到他，可我又是那么需要他。我太习惯于他在世时的情形。当初，我知道什么地方有那么一个人，什么事情我都可以同他谈，什么事情我都可以同他争论。那时，我一念及此便感到心满意足。</strong><br>
-📝这是作者在参加哀悼柳比歇夫纪念会上发出的感慨。是时候思考我这一生应当如何度过了。我荒废了时间，时间便把我荒废了。<br>
-<strong>这是指这样一种人，他不管干什么工作，只要干起来，便会感到愉快。</strong><br>
-<strong>古时候，人们写的比较多。</strong><br>
-<strong>此外，他还写过回忆录，追忆许多科学家，谈到他一生的各个阶段以及彼尔姆大学……</strong><br>
-📝如果给自己写回忆录，有什么值得写的呢？</p>
 ]]></content>
     </entry>
 </feed>
