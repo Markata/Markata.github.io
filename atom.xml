@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://Markata.github.io</id>
     <title>Markata</title>
-    <updated>2021-06-07T14:22:08.606Z</updated>
+    <updated>2021-06-09T15:22:15.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://Markata.github.io"/>
+    <link rel="self" href="https://Markata.github.io/atom.xml"/>
     <subtitle>每个人都应当深思一下自己的生活应当怎样度过</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://Markata.github.io/images/avatar.png</logo>
+    <icon>https://Markata.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Markata</rights>
     <entry>
         <title type="html"><![CDATA[奇特的一生]]></title>
-        <id>http://localhost:4000/post/qi-te-de-yi-sheng/</id>
-        <link href="http://localhost:4000/post/qi-te-de-yi-sheng/">
+        <id>https://Markata.github.io/post/qi-te-de-yi-sheng/</id>
+        <link href="https://Markata.github.io/post/qi-te-de-yi-sheng/">
         </link>
         <updated>2021-06-06T11:36:14.000Z</updated>
         <summary type="html"><![CDATA[<p>人这一生究竟应当如何度过，我暂时没有答案。但《奇特的一生》这本书确实讲述了一种我从未见过的奇特的一生！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>人这一生究竟应当如何度过，我暂时没有答案。但《奇特的一生》这本书确实讲述了一种我从未见过的奇特的一生！</p>
 <!-- more -->
+<h2 id="发现时间统计法">发现时间统计法</h2>
+<h3 id="令人叹为观止的编号文档">令人叹为观止的编号文档</h3>
+<p>他的文件都编了号，装订成册，好几十、好几百本。学术通信，事务信函，生物学、数学、社会学的教案，<strong>日记</strong>，论文，手稿，他的<strong>回忆录</strong>，笔记本，<strong>札记</strong>，学术报告，<strong>照片</strong>，<strong>书评</strong>……形形色色，不一而足。<br>
+文档仿佛记载收录了柳比歇夫事业与家庭生活的各个方面。把所有的纸片、所有的著述和信札以及1916年开始记起的<strong>日记</strong>统统保存下来——这是我前所未见的。<br>
+柳比歇夫的生活和它的蹉跎曲折，可以一年年甚至一天天复制，简直可以<strong>一小时一小时的回顾</strong>。<br>
+<strong>没有任何原因、任何事件、任何情况能不让他在日记中写上几行。</strong></p>
+<h3 id="时间开销日记">时间开销日记</h3>
+<p>任何一个人的生活都使人感到有兴趣。</p>
+<h3 id="时间的账簿">时间的账簿</h3>
+<p>每个月到月底他都要做总结，画了一些图，列了一些表。到年终，有根据每月小结做一份年度总结，列出一览表。<br>
+📝 有看过整理收纳的书，却未曾想过可以整理自己的生活。在看这本书之前，我的生活是随意的，发散的，或许有更贴切的词汇吧……那不妨学着柳比歇夫的样子，过一过他的日子，整理整理自己的生活。身边有很自律的朋友，严格按照自己的计划，高效多产。反观自己，拖延焦虑。是时候做些改变了！<br>
+📝以前也看了很多书，学了很多课程，但是缺少总结整理，至少要整理出笔记，方便回顾，快速捡起这些知识。工作上、学习上都是这样，开始运用这些方法吧。</p>
 ]]></content>
     </entry>
 </feed>
